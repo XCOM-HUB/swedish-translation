@@ -1933,7 +1933,7 @@
 	"core.genrltxt.197": "%s spelare",
 	"core.genrltxt.198": "Skott",
 	"core.genrltxt.199": "Skada",
-	"core.genrltxt.2": "{Nivå %d}\n\n{Nästa nivå} %d\n{Nuvarande Erfarenhet:} %d",
+	"core.genrltxt.2": "{Nivå %d}\n\n{Nästa nivå:} %d\n{Nuvarande erfarenhet:} %d",
 	"core.genrltxt.20": "Videokvalité",
 	"core.genrltxt.200": "Återstående Hälsa",
 	"core.genrltxt.201": "Din tid har gått ut.  Går vidare till nästa tur.",
