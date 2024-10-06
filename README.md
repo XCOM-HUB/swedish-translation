@@ -1,0 +1,3 @@
+# How to contribute
+
+[This page](https://github.com/vcmi/vcmi/blob/develop/docs/translators/Translations.md) explains how to translate VCMI. You can find original content [here](https://github.com/vcmi-mods/h3-for-vcmi-englisation) and text-free images [here](https://github.com/vcmi-mods/empty-translation). If you can't translate images or sounds on your own, write the translation and the exact location in this file.
