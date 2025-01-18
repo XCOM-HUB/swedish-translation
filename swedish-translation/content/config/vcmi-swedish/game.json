@@ -2314,7 +2314,7 @@
 	"core.genrltxt.586": "%s har byggt ett %s.",
 	"core.genrltxt.587": "%d ytterligare %s tillgängliga för rekrytering i %s",
 	"core.genrltxt.588": "%s-tillväxten per vecka",
-	"core.genrltxt.589": "%s-tillväxten är %+d/vecka",
+	"core.genrltxt.589": "%s-tillväxten är %d per vecka",
 	"core.genrltxt.590": "\r\n\r\nGrundtillväxt %+d",
 	"core.genrltxt.591": "\r\nExterna bon %+d",
 	"core.genrltxt.592": "Hall",
