@@ -1,7 +1,7 @@
 {	
 	"name" : "Swedish translation",
 	"description" : "Swedish translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/swedish-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.1" : [ "Translated Heroes Chronicles" ]
 		"1.0.0" : [ "Initial release based on https://github.com/CalZing/HeroesIIISwedish" ]
 	},
 	"german" : {
@@ -25,6 +26,7 @@
 	"translations" : [
 		"config/vcmi-swedish/game.json",
 		"config/vcmi-swedish/maps.json",
-		"config/vcmi-swedish/campaigns.json"
+		"config/vcmi-swedish/campaigns.json",
+		"config/vcmi-swedish/chronicles.json"
 	]
 }
