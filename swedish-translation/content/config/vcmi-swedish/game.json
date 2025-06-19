@@ -2180,7 +2180,7 @@
 	"core.genrltxt.452": "Mitt spel",
 	"core.genrltxt.453": "Lösenord:",
 	"core.genrltxt.454": "Inga sessioner hittades på värddatorn!",
-	"core.genrltxt.455": "Det inträffade tyvärr ett fel när jag skulle ansluta till den sessionen. Vänligen försök igen.",
+	"core.genrltxt.455": "Tyvärr, det uppstod ett fel vid anslutningen till den sessionen. Vänligen försök igen.",
 	"core.genrltxt.456": "Spelet hittades inte. Försök igen!.",
 	"core.genrltxt.457": "Felaktigt lösenord!",
 	"core.genrltxt.458": "Fel vid initiering av TCP/IP-anslutning. Vänligen försök igen.",
