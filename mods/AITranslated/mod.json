@@ -1,0 +1,13 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "swedish",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-swedish-ai/game.json",
+		"config/vcmi-swedish-ai/maps.json"
+	]
+}
