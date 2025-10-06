@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.3" : [ "Improved Swedish translation of game.json and chronicles.json by XCOM-HUB" ],
 		"1.0.2" : [ "Full Swedish translation of game.json by XCOM-HUB" ],
 		"1.0.1" : [ "Translated Heroes Chronicles" ],
 		"1.0.0" : [ "Initial release based on https://github.com/CalZing/HeroesIIISwedish" ]
