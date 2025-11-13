@@ -7,6 +7,8 @@
 	"language" : "swedish",
 	"modType" : "Translation",
 	"translations" : [
+		"config/vcmi-swedish-ai/campaigns.json",
+		"config/vcmi-swedish-ai/chronicles.json",
 		"config/vcmi-swedish-ai/game.json",
 		"config/vcmi-swedish-ai/maps.json"
 	]
