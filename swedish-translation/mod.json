@@ -1,7 +1,7 @@
 {	
 	"name" : "Swedish translation",
 	"description" : "Swedish translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.4",
+	"version" : "1.0.5",
 	"author" : "CalZing and XCOM-HUB on GitHub",
 	"contact" : "https://github.com/vcmi-mods/swedish-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.5" : [ "Replace big font with more appropriate one from finnish translation" ],
 		"1.0.4" : [ "Menu screen by Fabrice TIERCELIN" ],
 		"1.0.3" : [ "Improved Swedish translation of game.json and chronicles.json by XCOM-HUB" ],
 		"1.0.2" : [ "Full Swedish translation of game.json by XCOM-HUB" ],
